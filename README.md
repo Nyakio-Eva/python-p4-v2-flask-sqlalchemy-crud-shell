@@ -122,7 +122,7 @@ You will type commands after the `>>>` prompt.
 First, let's import the necessary `db` database object and the `Pet` model:
 
 ```console
->>> from models import db, Pet
+>>> 
 ```
 
 ## add() and commit()
